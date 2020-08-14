@@ -6,7 +6,7 @@ Issue directory for HackinCodes Contributor's Hack, 2020
 ### Steps to create an issue:~
 
 - Go to [issues](https://github.com/Neilblaze/HackinCodes-Review/issues)
-- Click on new [issue](https://github.com/Neilblaze/HackinCodes-Review/issues/new/choose)
+- Click on [new issue](https://github.com/Neilblaze/HackinCodes-Review/issues/new/choose)
 - Give an understandable brief title of your issue.
 - Mention where you are facing your problem in the description box below the title bar. You can customize using the options there or even upload screenshots which gives a better perspective of the problem that you are facing at the moment.
 - Submit the issue by clicking on the `Submit new issue`
